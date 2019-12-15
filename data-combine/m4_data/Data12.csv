@@ -1,0 +1,2 @@
+log time,GPS hour,GPS minute,GPS seconds,GPS latitude,GPS longitude,GPS angle,GPS speed,exterior temperature,interior temperature,BMP pressure (mb),BMP pressure (inHG),BMP altitude,CCS eCO2,CCS TVOC,Acceleration X,Acceleration Y,Acceleration Z,Magnetic X,Magnetic Y,Magnetic Z,Gyro X,Gyro Y,Gyro Z,
+3000,0,0,0,0.0000,0.0000,0.00,0.00,0.00,-127.00,24.62,0,0,-1.42,0.04,10.07,-0.06,0.20,-0.49,-0.04,0.19,-1.06,
